@@ -1,4 +1,5 @@
-import { useNavigate } from 'react-router-dom';
+import { render } from 'react-dom';
+import { Routes, Route, useNavigate } from 'react-router-dom';
 import { useDispatch, useSelector } from 'react-redux';
 import { LinkContainer } from 'react-router-bootstrap';
 import { Navbar, Nav, Container, NavDropdown } from 'react-bootstrap';
@@ -26,6 +27,9 @@ const Header = () => {
      </LinkContainer>
      <Navbar.Toggle aria-controls='basic-navbar-nav' />
      <Navbar.Collapse id='basic-navbar-nav'>
+      <Routes>
+       <Route render={({ navigate }) => <SearchBox navigate={navigate} />} />
+      </Routes>
       <SearchBox navigate={navigate} />
       <Nav className='ms-auto'>
        <LinkContainer to='/cart'>

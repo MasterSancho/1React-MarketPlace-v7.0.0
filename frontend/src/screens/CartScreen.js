@@ -1,11 +1,5 @@
 import { useEffect } from 'react';
-import {
- Link,
- useParams,
- useLocation,
- useNavigate,
- redirect,
-} from 'react-router-dom';
+import { Link, useParams, useLocation, useNavigate } from 'react-router-dom';
 import { useDispatch, useSelector } from 'react-redux';
 import {
  Row,

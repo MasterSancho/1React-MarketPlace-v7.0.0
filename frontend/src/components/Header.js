@@ -4,7 +4,7 @@ import { LinkContainer } from 'react-router-bootstrap';
 import { Navbar, Nav, Container, NavDropdown } from 'react-bootstrap';
 import SearchBox from './SearchBox';
 import { logout } from '../actions/userActions';
-import { FaShoppingCart } from 'react-icons/fa';
+import { FaShoppingCart, FaUser } from 'react-icons/fa';
 
 const Header = () => {
  const navigate = useNavigate();
@@ -44,7 +44,7 @@ const Header = () => {
        ) : (
         <LinkContainer to='/login'>
          <Nav.Link>
-          <i className='fas fa-user'></i> Sign In
+          <FaUser /> Sign In
          </Nav.Link>
         </LinkContainer>
        )}

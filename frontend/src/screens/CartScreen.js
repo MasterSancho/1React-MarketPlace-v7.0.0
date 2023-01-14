@@ -87,7 +87,7 @@ const CartScreen = () => {
            type='button'
            variant='light'
            onClick={() => removeFromCartHandler(item.product)}>
-           <i className='fas fa-trash'></i>
+           <FaTrash />
           </Button>
          </Col>
         </Row>

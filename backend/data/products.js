@@ -12,7 +12,7 @@ const products = [
   numReviews: 12,
  },
  {
-  name: 'Cannon EOS 15D LR Camera',
+  name: 'Cannon 15D Camera',
   image: '/images/camera-510524_640.jpg',
   description:
    'There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which dont look even slightly believable.',
@@ -36,7 +36,7 @@ const products = [
   numReviews: 3,
  },
  {
-  name: 'Cannon EOS 40D DS Camera',
+  name: 'Cannon DS Camera',
   image: '/images/camera-510530_640.jpg',
   description:
    'There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which dont look even slightly believable.',
@@ -48,7 +48,7 @@ const products = [
   numReviews: 3,
  },
  {
-  name: 'Logitech G-Series Gaming Mouse',
+  name: 'Logitech Gaming Mouse',
   image: '/images/mouse.jpg',
   description:
    'There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which dont look even slightly believable.',
@@ -60,7 +60,7 @@ const products = [
   numReviews: 2,
  },
  {
-  name: 'Cannon EOS 50D SL Camera',
+  name: 'Cannon EOS Camera',
   image: '/images/camera-510528_640.jpg',
   description:
    'There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which dont look even slightly believable.',
@@ -96,10 +96,10 @@ const products = [
   numReviews: 8,
  },
  {
-  name: 'Cannon EOS 80D DSLR Camera',
+  name: 'Cannon Camera',
   image: '/images/computer-component-2834138_640.jpg',
   description:
-   'Characterized by versatile imaging specs, the Canon EOS 80D further clarifies itself using a pair of robust focusing systems and an intuitive design',
+   'There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which dont look even slightly believable.',
   brand: 'Cannon',
   category: 'Electronics',
   price: 929.99,
@@ -108,10 +108,10 @@ const products = [
   numReviews: 3,
  },
  {
-  name: 'Sony Playstation 4 Pro White Version',
+  name: 'Sony Playstation 4',
   image: '/images/drone-1080844_640.jpg',
   description:
-   'The ultimate home entertainment center starts with PlayStation. Whether you are into gaming, HD movies, television, music',
+   'There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which dont look even slightly believable.',
   brand: 'Sony',
   category: 'Electronics',
   price: 399.99,
@@ -120,10 +120,10 @@ const products = [
   numReviews: 3,
  },
  {
-  name: 'Logitech G-Series Gaming Mouse',
+  name: 'Logitech Gaming Mouse',
   image: '/images/drone-1866742_640.jpg',
   description:
-   'Get a better handle on your games with this Logitech LIGHTSYNC gaming mouse. The six programmable buttons allow customization for a smooth playing experience',
+   'There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which dont look even slightly believable.',
   brand: 'Logitech',
   category: 'Electronics',
   price: 49.99,
@@ -132,10 +132,10 @@ const products = [
   numReviews: 2,
  },
  {
-  name: 'Amazon Echo Dot 3rd Generation',
+  name: 'Amazon Echo Dot',
   image: '/images/drone-2724257_640.jpg',
   description:
-   'Meet Echo Dot - Our most popular smart speaker with a fabric design. It is our most compact smart speaker that fits perfectly into small space',
+   'There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which dont look even slightly believable.',
   brand: 'Amazon',
   category: 'Electronics',
   price: 29.99,
@@ -144,10 +144,10 @@ const products = [
   numReviews: 4,
  },
  {
-  name: 'Airpods Wireless Bluetooth Headphones',
+  name: 'Airpods Wireless Headphones',
   image: '/images/drone-3198324_640.jpg',
   description:
-   'Bluetooth technology lets you connect it with compatible devices wirelessly High-quality AAC audio offers immersive listening experience Built-in microphone allows you to take calls while working',
+   'There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which dont look even slightly believable.',
   brand: 'Apple',
   category: 'Electronics',
   price: 89.99,
@@ -156,10 +156,10 @@ const products = [
   numReviews: 4,
  },
  {
-  name: 'iPhone 11 Pro 256GB Memory',
+  name: 'iPhone 11 Pro',
   image: '/images/drone-5549591_640.jpg',
   description:
-   'Introducing the iPhone 11 Pro. A transformative triple-camera system that adds tons of capability without complexity. An unprecedented leap in battery life',
+   'There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which dont look even slightly believable.',
   brand: 'Apple',
   category: 'Electronics',
   price: 599.99,
@@ -168,10 +168,10 @@ const products = [
   numReviews: 4,
  },
  {
-  name: 'Cannon EOS 80D DSLR Camera',
+  name: 'Cannon Camera',
   image: '/images/earphones-477446_640.jpg',
   description:
-   'Characterized by versatile imaging specs, the Canon EOS 80D further clarifies itself using a pair of robust focusing systems and an intuitive design',
+   'There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which dont look even slightly believable.',
   brand: 'Cannon',
   category: 'Electronics',
   price: 929.99,
@@ -180,10 +180,10 @@ const products = [
   numReviews: 3,
  },
  {
-  name: 'Sony Playstation 4 Pro White Version',
+  name: 'Sony Playstation 4',
   image: '/images/electronics-2002813_640.jpg',
   description:
-   'The ultimate home entertainment center starts with PlayStation. Whether you are into gaming, HD movies, television, music',
+   'There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which dont look even slightly believable.',
   brand: 'Sony',
   category: 'Electronics',
   price: 399.99,
@@ -192,10 +192,10 @@ const products = [
   numReviews: 3,
  },
  {
-  name: 'Logitech G-Series Gaming Mouse',
+  name: 'Logitech Gaming Mouse',
   image: '/images/external-hard-drive-1200006_640.jpg',
   description:
-   'Get a better handle on your games with this Logitech LIGHTSYNC gaming mouse. The six programmable buttons allow customization for a smooth playing experience',
+   'There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which dont look even slightly believable.',
   brand: 'Logitech',
   category: 'Electronics',
   price: 49.99,
@@ -204,10 +204,10 @@ const products = [
   numReviews: 2,
  },
  {
-  name: 'Amazon Echo Dot 3rd Generation',
+  name: 'Amazon Echo Dot',
   image: '/images/gamepad-6392045_640.jpg',
   description:
-   'Meet Echo Dot - Our most popular smart speaker with a fabric design. It is our most compact smart speaker that fits perfectly into small space',
+   'There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which dont look even slightly believable.',
   brand: 'Amazon',
   category: 'Electronics',
   price: 29.99,
@@ -216,10 +216,10 @@ const products = [
   numReviews: 4,
  },
  {
-  name: 'Airpods Wireless Bluetooth Headphones',
+  name: 'Airpods Wireless Headphones',
   image: '/images/gaming-4061103_640.jpg',
   description:
-   'Bluetooth technology lets you connect it with compatible devices wirelessly High-quality AAC audio offers immersive listening experience Built-in microphone allows you to take calls while working',
+   'There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which dont look even slightly believable.',
   brand: 'Apple',
   category: 'Electronics',
   price: 89.99,
@@ -228,10 +228,10 @@ const products = [
   numReviews: 4,
  },
  {
-  name: 'iPhone 11 Pro 256GB Memory',
+  name: 'iPhone 11 Pro',
   image: '/images/headphones-5596987_640.jpg',
   description:
-   'Introducing the iPhone 11 Pro. A transformative triple-camera system that adds tons of capability without complexity. An unprecedented leap in battery life',
+   'There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which dont look even slightly believable.',
   brand: 'Apple',
   category: 'Electronics',
   price: 599.99,
@@ -240,10 +240,10 @@ const products = [
   numReviews: 4,
  },
  {
-  name: 'Cannon EOS 80D DSLR Camera',
+  name: 'Cannon 80D Camera',
   image: '/images/lens-510529_640.jpg',
   description:
-   'Characterized by versatile imaging specs, the Canon EOS 80D further clarifies itself using a pair of robust focusing systems and an intuitive design',
+   'There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which dont look even slightly believable.',
   brand: 'Cannon',
   category: 'Electronics',
   price: 929.99,
@@ -252,10 +252,10 @@ const products = [
   numReviews: 3,
  },
  {
-  name: 'Sony Playstation 4 Pro White Version',
+  name: 'Sony Playstation 4',
   image: '/images/lens-510535_640.jpg',
   description:
-   'The ultimate home entertainment center starts with PlayStation. Whether you are into gaming, HD movies, television, music',
+   'There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which dont look even slightly believable.',
   brand: 'Sony',
   category: 'Electronics',
   price: 399.99,
@@ -264,10 +264,10 @@ const products = [
   numReviews: 3,
  },
  {
-  name: 'Logitech G-Series Gaming Mouse',
+  name: 'Logitech Gaming Mouse',
   image: '/images/nintendo-switch-2154437_640.jpg',
   description:
-   'Get a better handle on your games with this Logitech LIGHTSYNC gaming mouse. The six programmable buttons allow customization for a smooth playing experience',
+   'There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which dont look even slightly believable.',
   brand: 'Logitech',
   category: 'Electronics',
   price: 49.99,
@@ -276,10 +276,10 @@ const products = [
   numReviews: 2,
  },
  {
-  name: 'Amazon Echo Dot 3rd Generation',
+  name: 'Amazon Echo Dot',
   image: '/images/quadrocopter-5239174_640.jpg',
   description:
-   'Meet Echo Dot - Our most popular smart speaker with a fabric design. It is our most compact smart speaker that fits perfectly into small space',
+   'There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which dont look even slightly believable.',
   brand: 'Amazon',
   category: 'Electronics',
   price: 29.99,
@@ -288,10 +288,10 @@ const products = [
   numReviews: 4,
  },
  {
-  name: 'Airpods Wireless Bluetooth Headphones',
+  name: 'Airpods Wireless Headphones',
   image: '/images/robot-2116088_640.jpg',
   description:
-   'Bluetooth technology lets you connect it with compatible devices wirelessly High-quality AAC audio offers immersive listening experience Built-in microphone allows you to take calls while working',
+   'There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which dont look even slightly believable.',
   brand: 'Apple',
   category: 'Electronics',
   price: 89.99,
@@ -300,10 +300,10 @@ const products = [
   numReviews: 4,
  },
  {
-  name: 'iPhone 11 Pro 256GB Memory',
+  name: 'iPhone 11 Pro',
   image: '/images/smart-watch-889639_640.jpg',
   description:
-   'Introducing the iPhone 11 Pro. A transformative triple-camera system that adds tons of capability without complexity. An unprecedented leap in battery life',
+   'There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which dont look even slightly believable.',
   brand: 'Apple',
   category: 'Electronics',
   price: 599.99,
@@ -312,10 +312,10 @@ const products = [
   numReviews: 4,
  },
  {
-  name: 'Cannon EOS 80D DSLR Camera',
+  name: 'Cannon DSLR Camera',
   image: '/images/sony-4745434_640.jpg',
   description:
-   'Characterized by versatile imaging specs, the Canon EOS 80D further clarifies itself using a pair of robust focusing systems and an intuitive design',
+   'There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which dont look even slightly believable.',
   brand: 'Cannon',
   category: 'Electronics',
   price: 929.99,
@@ -324,10 +324,10 @@ const products = [
   numReviews: 3,
  },
  {
-  name: 'Sony Playstation 4 Pro White Version',
+  name: 'Sony Playstation 4',
   image: '/images/vape-3417393_640.jpg',
   description:
-   'The ultimate home entertainment center starts with PlayStation. Whether you are into gaming, HD movies, television, music',
+   'There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which dont look even slightly believable.',
   brand: 'Sony',
   category: 'Electronics',
   price: 399.99,
@@ -336,10 +336,10 @@ const products = [
   numReviews: 3,
  },
  {
-  name: 'Logitech G-Series Gaming Mouse',
+  name: 'Logitech Gaming Mouse',
   image: '/images/video-game-console-2202595_640.jpg',
   description:
-   'Get a better handle on your games with this Logitech LIGHTSYNC gaming mouse. The six programmable buttons allow customization for a smooth playing experience',
+   'There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which dont look even slightly believable.',
   brand: 'Logitech',
   category: 'Electronics',
   price: 49.99,
@@ -348,10 +348,10 @@ const products = [
   numReviews: 2,
  },
  {
-  name: 'Amazon Echo Dot 3rd Generation',
+  name: 'Amazon Echo Dot',
   image: '/images/alexa.jpg',
   description:
-   'Meet Echo Dot - Our most popular smart speaker with a fabric design. It is our most compact smart speaker that fits perfectly into small space',
+   'There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which dont look even slightly believable.',
   brand: 'Amazon',
   category: 'Electronics',
   price: 29.99,
@@ -360,10 +360,10 @@ const products = [
   numReviews: 4,
  },
  {
-  name: 'Airpods Wireless Bluetooth Headphones',
+  name: 'Airpods Wireless Headphones',
   image: '/images/video-game-console-2202606_640.jpg',
   description:
-   'Bluetooth technology lets you connect it with compatible devices wirelessly High-quality AAC audio offers immersive listening experience Built-in microphone allows you to take calls while working',
+   'There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which dont look even slightly believable.',
   brand: 'Apple',
   category: 'Electronics',
   price: 89.99,
@@ -372,10 +372,10 @@ const products = [
   numReviews: 4,
  },
  {
-  name: 'iPhone 11 Pro 256GB Memory',
+  name: 'iPhone 11 Pro',
   image: '/images/video-game-console-2202632_640.jpg',
   description:
-   'Introducing the iPhone 11 Pro. A transformative triple-camera system that adds tons of capability without complexity. An unprecedented leap in battery life',
+   'There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which dont look even slightly believable.',
   brand: 'Apple',
   category: 'Electronics',
   price: 599.99,
@@ -384,10 +384,10 @@ const products = [
   numReviews: 4,
  },
  {
-  name: 'Cannon EOS 80D DSLR Camera',
+  name: 'Cannon EOS Camera',
   image: '/images/video-game-console-2202633_640.jpg',
   description:
-   'Characterized by versatile imaging specs, the Canon EOS 80D further clarifies itself using a pair of robust focusing systems and an intuitive design',
+   'There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which dont look even slightly believable.',
   brand: 'Cannon',
   category: 'Electronics',
   price: 929.99,
@@ -396,10 +396,10 @@ const products = [
   numReviews: 3,
  },
  {
-  name: 'Sony Playstation 4 Pro White Version',
+  name: 'Sony Playstation 4',
   image: '/images/playstation.jpg',
   description:
-   'The ultimate home entertainment center starts with PlayStation. Whether you are into gaming, HD movies, television, music',
+   'There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which dont look even slightly believable.',
   brand: 'Sony',
   category: 'Electronics',
   price: 399.99,
@@ -408,10 +408,10 @@ const products = [
   numReviews: 3,
  },
  {
-  name: 'Logitech G-Series Gaming Mouse',
+  name: 'Logitech Gaming Mouse',
   image: '/images/mouse.jpg',
   description:
-   'Get a better handle on your games with this Logitech LIGHTSYNC gaming mouse. The six programmable buttons allow customization for a smooth playing experience',
+   'There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which dont look even slightly believable.',
   brand: 'Logitech',
   category: 'Electronics',
   price: 49.99,
@@ -420,10 +420,10 @@ const products = [
   numReviews: 2,
  },
  {
-  name: 'Amazon Echo Dot 3rd Generation',
+  name: 'Amazon Echo Dot',
   image: '/images/watch-7100368_640.jpg',
   description:
-   'Meet Echo Dot - Our most popular smart speaker with a fabric design. It is our most compact smart speaker that fits perfectly into small space',
+   'There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which dont look even slightly believable.',
   brand: 'Amazon',
   category: 'Electronics',
   price: 29.99,
@@ -432,10 +432,10 @@ const products = [
   numReviews: 4,
  },
  {
-  name: 'Amazon Echo Dot 3rd Generation',
+  name: 'Amazon Echo Dot',
   image: '/images/x-box-1791671_640.jpg',
   description:
-   'Meet Echo Dot - Our most popular smart speaker with a fabric design. It is our most compact smart speaker that fits perfectly into small space',
+   'There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which dont look even slightly believable.',
   brand: 'Amazon',
   category: 'Electronics',
   price: 29.99,

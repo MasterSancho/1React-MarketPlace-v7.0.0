@@ -23,7 +23,7 @@ const ProductCarousel = () => {
  ) : (
   <Carousel
    pause='hover'
-   className='bg-dark'
+   className='bg-info'
    indicators={false}
    controls={false}>
    {products.map((product) => (

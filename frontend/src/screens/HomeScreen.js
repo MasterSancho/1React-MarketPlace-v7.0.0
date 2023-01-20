@@ -33,13 +33,14 @@ const HomeScreen = () => {
      Go Back
     </Link>
    )}
-   <h1>Latest Products</h1>
+   <h1 className='text-center pt-3'>Latest Products</h1>
    {loading ? (
     <Loader />
    ) : error ? (
     <Message variant='danger'>{error}</Message>
    ) : (
     <>
+     <Paginate pages={pages} page={page} keyword={keyword ? keyword : ''} />
      <Row>
       {products.map((product) => (
        <Col key={product._id} sm={12} md={6} lg={4} xl={3}>
@@ -47,7 +48,6 @@ const HomeScreen = () => {
        </Col>
       ))}
      </Row>
-     <Paginate pages={pages} page={page} keyword={keyword ? keyword : ''} />
     </>
    )}
   </>

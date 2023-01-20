@@ -19,7 +19,7 @@ const Header = () => {
 
  return (
   <header>
-   <Navbar bg='dark' variant='dark' expand='lg' collapseOnSelect>
+   <Navbar bg='info' variant='dark' expand='lg' collapseOnSelect>
     <Container>
      <LinkContainer to='/'>
       <Navbar.Brand>MarketPlace</Navbar.Brand>
@@ -30,7 +30,7 @@ const Header = () => {
       <Nav className='ms-auto'>
        <LinkContainer to='/cart'>
         <Nav.Link>
-         <FaShoppingCart /> Cart
+         <FaShoppingCart size={25} /> <span>CART</span>
         </Nav.Link>
        </LinkContainer>
 
@@ -44,7 +44,7 @@ const Header = () => {
        ) : (
         <LinkContainer to='/login'>
          <Nav.Link>
-          <FaUser /> Sign In
+          <FaUser size={25} /> <span>SIGN IN</span>
          </Nav.Link>
         </LinkContainer>
        )}
